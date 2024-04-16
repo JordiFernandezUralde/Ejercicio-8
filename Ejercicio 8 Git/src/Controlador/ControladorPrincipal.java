@@ -40,7 +40,7 @@ public class ControladorPrincipal {
         vai = new VentanaAltaInmuebles();
         vmi = new VentanaModifiInmuebles();
         vbi = new VentanaBajaInmueble();
-        vai.setVisible(true);
+
         vmi.setVisible(true);
         vbi.setVisible(true);
         vp.añadirMenuAltaInmuebles(new controlarMenuAltaInmuebles());
