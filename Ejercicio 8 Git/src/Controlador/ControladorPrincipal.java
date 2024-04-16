@@ -27,7 +27,7 @@ public class ControladorPrincipal {
         vp.añadirBotonSalir(new controlarBotonSalir());
 
         /* ------ PERSONAS ------ */
-        vp.añadirMenuALtaPersonas(new controlarMenuAltaPersonas());
+        vp.añadirMenuALtaPersonas(new controlarMenuAltaPersonas(listaPersonas));
         vp.añadirMenuBajaPersonas(new controlarMenuBajaPersonas());
         vp.añadirMenuModificacionPersonas(new controlarMenuModificacionPersonas());
 
@@ -52,6 +52,7 @@ public class ControladorPrincipal {
     /* ------ PERSONAS ------ */
 
     public class controlarMenuAltaPersonas implements ActionListener {
+        private ArrayList<Personas> listaPersonas;
 
         public controlarMenuAltaPersonas(ArrayList<Personas> listaPersonas) {
             this.listaPersonas = listaPersonas;
