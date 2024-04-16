@@ -1,5 +1,6 @@
 package Controlador;
 
+import Vista.VentanaAltaPersonas;
 import Vista.VentanaPrincipal;
 
 import java.awt.event.ActionEvent;
@@ -7,6 +8,7 @@ import java.awt.event.ActionListener;
 
 public class ControladorPrincipal {
     private VentanaPrincipal vp;
+    private VentanaAltaPersonas vap;
 
     public ControladorPrincipal() {
         vp = new VentanaPrincipal();
@@ -97,3 +99,4 @@ public class ControladorPrincipal {
         }
     }
 }
+
