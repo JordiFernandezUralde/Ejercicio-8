@@ -64,12 +64,40 @@ public class ControladorPrincipal {
     public class controlarMenuAltaInmuebles implements ActionListener {
         @Override
         public void actionPerformed(ActionEvent e) {
+            asdfg
+                    asdg
+                    controlarBotonSalirsfg
+
+                            sdfgs
+                            sf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    sfg
         }
     }
 
     public class controlarMenuBajaInmuebles implements ActionListener {
         @Override
         public void actionPerformed(ActionEvent e) {
+
         }
     }
 
