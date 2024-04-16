@@ -1,32 +1,33 @@
 
-i	java:S101#"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(•±å®8 €öµî1
-n	java:S101,"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Î·Îûÿÿÿÿ8¡€öµî1
-i	java:S1012"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‘õ¨8¡€öµî1
-i	java:S1018"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(™Ä•š8¡€öµî1
-i	java:S101@"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ñ¬Àà8¡€öµî1
-n	java:S101F"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(˜Ó¿†úÿÿÿÿ8¡€öµî1
-i	java:S101M"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(æ¼¦ª8¡€öµî1
-i	java:S101U"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÕœÅ8¡€öµî1
-i	java:S101["MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(üÁÑÖ8¡€öµî1
-n	java:S101a"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÃŒ¸áşÿÿÿÿ8¡€öµî1
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ï‡Î£8¢€öµî1
-£
-java:S1186."€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ Òşüÿÿÿÿ8«€öµî1
-£
-java:S11864"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ Òşüÿÿÿÿ8¬€öµî1
-£
-java:S1186:"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ Òşüÿÿÿÿ8­€öµî1
-£
-java:S1186B"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ Òşüÿÿÿÿ8­€öµî1
-£
-java:S1186H"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ Òşüÿÿÿÿ8®€öµî1
-£
-java:S1186O"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ Òşüÿÿÿÿ8¯€öµî1
-£
-java:S1186W"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ Òşüÿÿÿÿ8°€öµî1
-£
-java:S1186]"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ Òşüÿÿÿÿ8±€öµî1
-£
-java:S1186c"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ Òşüÿÿÿÿ8²€öµî1
-D
-java:S1068"'Remove this unused "vap" private field.(»…©‹8´€öµî1
+‰
+java:S13191"mThe type of "listaPersonas" should be an interface such as "List" rather than the implementation "ArrayList".(ó¹Ê58–ˆ„¶î1
+	java:S101%"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(•±å®8 €öµî1J$116ba4d1-6e44-47a9-9fdc-badb4b857f7b
+”	java:S101."MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Î·Îûÿÿÿÿ8¡€öµî1J$c8588684-aee9-4315-be9d-faac07809f59
+	java:S101E"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‘õ¨8¡€öµî1J$1b4f0a71-4981-41c3-8851-3f8837a61bd4
+	java:S101K"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(™Ä•š8¡€öµî1J$b8751d20-88d6-4427-a9a9-48c65ac41d52
+	java:S101S"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ñ¬Àà8¡€öµî1J$d00a5c46-df8b-47a2-8c54-f52e2bf68b37
+”	java:S101Y"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(˜Ó¿†úÿÿÿÿ8¡€öµî1J$e582dd16-5504-4b22-8b72-09054709c724
+	java:S101`"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(æ¼¦ª8¡€öµî1J$401b9535-3b1c-4e91-8772-ca64605f4a8e
+	java:S101h"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÕœÅ8¡€öµî1J$981dec29-3ecc-420b-9a9a-d6ded7536c88
+	java:S101n"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(üÁÑÖ8¡€öµî1J$ec6f717d-3ea5-4b05-ba72-8cd46b1d26a2
+”	java:S101t"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÃŒ¸áşÿÿÿÿ8¡€öµî1J$655a96f2-5c6f-4c39-b1c2-17db7eca461c
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ï‡Î£8¢€öµî1J$eda20e94-f033-4cb5-a869-8a60f19fc32b
+m	java:S106A"+Replace this use of System.out by a logger.(ñâà¤8öˆƒ¶î1J$2cce0745-7198-4149-9aa1-a62b0f108426
+É
+java:S1186G"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ Òşüÿÿÿÿ8¬€öµî1J$16d0bbb5-b8fd-4b4b-9b9d-fbd38d63d755
+É
+java:S1186M"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ Òşüÿÿÿÿ8­€öµî1J$9014ba4d-61b2-42a4-a037-78be0ec9c403
+É
+java:S1186U"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ Òşüÿÿÿÿ8­€öµî1J$22eb42e3-a5f2-41ba-8d12-10a11faa60e1
+É
+java:S1186["€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ Òşüÿÿÿÿ8®€öµî1J$ae506354-5c22-4d35-b0f6-6731e9d8b9ab
+É
+java:S1186b"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ Òşüÿÿÿÿ8¯€öµî1J$124fdf6b-fcd8-442f-993e-a192f1cd146e
+É
+java:S1186j"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ Òşüÿÿÿÿ8°€öµî1J$394b9a79-a410-4958-900f-8b94463de7ae
+É
+java:S1186p"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ Òşüÿÿÿÿ8±€öµî1J$4f1d5644-1bb8-45aa-8a78-da818aef8293
+É
+java:S1186v"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ Òşüÿÿÿÿ8²€öµî1J$3910a736-f63c-4cf7-bd4b-54289d926eb5
+j
+java:S1068"'Remove this unused "vap" private field.(»…©‹8´€öµî1J$2f2f6944-928c-4337-aa46-adc8ed8aac58

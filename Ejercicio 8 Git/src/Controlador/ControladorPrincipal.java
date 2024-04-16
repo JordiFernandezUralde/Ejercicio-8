@@ -1,10 +1,12 @@
 package Controlador;
 
+import Modelo.Personas;
 import Vista.VentanaAltaPersonas;
 import Vista.VentanaPrincipal;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.util.ArrayList;
 
 public class ControladorPrincipal {
     private VentanaPrincipal vp;
@@ -42,8 +44,25 @@ public class ControladorPrincipal {
     /* ------ PERSONAS ------ */
 
     public class controlarMenuAltaPersonas implements ActionListener {
+        private ArrayList<Personas> listaPersonas;
+
+        public controlarMenuAltaPersonas(ArrayList<Personas> listaPersonas) {
+            this.listaPersonas = listaPersonas;
+        }
+
         @Override
         public void actionPerformed(ActionEvent e) {
+            // Aquí agregas el código para manejar la acción del botón de alta de personas
+            // Por ejemplo, puedes llamar a un método que realice la lógica para dar de alta una persona
+            darDeAltaPersona("12345678A", "Juan Perez");
+        }
+
+        public void darDeAltaPersona(String dni, String nombre) {
+            // Aquí puedes agregar la lógica para dar de alta una persona
+            // Por ejemplo, puedes crear un objeto Persona y agregarlo a la lista
+            Personas persona = new Personas(dni, nombre);
+            listaPersonas.add(persona);
+            System.out.println("Persona añadida correctamente: " + persona);
         }
     }
 
