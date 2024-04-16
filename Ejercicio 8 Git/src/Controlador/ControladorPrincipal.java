@@ -64,23 +64,6 @@ public class ControladorPrincipal {
     public class controlarMenuAltaInmuebles implements ActionListener {
         @Override
         public void actionPerformed(ActionEvent e) {
-            /* adrian
-            * a
-            * a
-            * a
-            * a
-            * a
-            * a
-            * a
-            * a
-            * a
-            * a
-            * a
-            * a
-            * a
-            * a
-            * a
-            * */
         }
     }
 
