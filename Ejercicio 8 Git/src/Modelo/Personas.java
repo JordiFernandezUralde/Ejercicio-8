@@ -13,7 +13,7 @@ public class Personas {
     }
 
     public String getDni() {
-        return dni;
+        return dni; 
     }
 
     public void setDni(String dni) {
