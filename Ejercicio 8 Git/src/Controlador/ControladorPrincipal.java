@@ -56,6 +56,7 @@ public class ControladorPrincipal {
     public class controlarMenuModificacionPersonas implements ActionListener {
         @Override
         public void actionPerformed(ActionEvent e) {
+            /* adrian */
         }
     }
 
@@ -99,4 +100,3 @@ public class ControladorPrincipal {
         }
     }
 }
-
