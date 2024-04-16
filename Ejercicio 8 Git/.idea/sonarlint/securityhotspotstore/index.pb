@@ -11,3 +11,5 @@ O
 src/Vista/VentanaPrincipal.java,9\3\93611f67e76aa5460744b7a036a95324a864c63f
 O
 src/Vista/VentanaPrincipal.form,3\2\322c9a91d968fc3891cf8013be2b992914460aa8
+R
+"src/Vista/VentanaAltaPersonas.java,b\9\b99eacd344be013385549c3619939ff8a1d3eb83

@@ -31,19 +31,19 @@
             </properties>
             <border type="none"/>
             <children>
-              <component id="35690" class="javax.swing.JMenuItem">
+              <component id="35690" class="javax.swing.JMenuItem" binding="altaPersonasMenu">
                 <constraints/>
                 <properties>
                   <text value="Alta"/>
                 </properties>
               </component>
-              <component id="eda47" class="javax.swing.JMenuItem">
+              <component id="eda47" class="javax.swing.JMenuItem" binding="bajaPersonasMenu">
                 <constraints/>
                 <properties>
                   <text value="Baja"/>
                 </properties>
               </component>
-              <component id="5a063" class="javax.swing.JMenuItem">
+              <component id="5a063" class="javax.swing.JMenuItem" binding="modificacionPersonasMenu">
                 <constraints/>
                 <properties>
                   <text value="Modificacion"/>
@@ -58,19 +58,19 @@
             </properties>
             <border type="none"/>
             <children>
-              <component id="77062" class="javax.swing.JMenuItem">
+              <component id="77062" class="javax.swing.JMenuItem" binding="altaInmueblesMenu">
                 <constraints/>
                 <properties>
                   <text value="Alta"/>
                 </properties>
               </component>
-              <component id="5d2ac" class="javax.swing.JMenuItem">
+              <component id="5d2ac" class="javax.swing.JMenuItem" binding="bajaInmueblesMenu">
                 <constraints/>
                 <properties>
                   <text value="Baja"/>
                 </properties>
               </component>
-              <component id="17980" class="javax.swing.JMenuItem">
+              <component id="17980" class="javax.swing.JMenuItem" binding="modificacionInmueblesMenu">
                 <constraints/>
                 <properties>
                   <text value="Modificacion"/>
@@ -103,7 +103,7 @@
         <properties/>
         <border type="none"/>
         <children>
-          <grid id="2dc2" class="javax.swing.JMenu" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+          <grid id="2dc2" class="javax.swing.JMenu" binding="precioConsultaInmueblesMenu" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
             <constraints/>
             <properties>
               <text value="Por Precio"/>
@@ -111,15 +111,15 @@
             <border type="none"/>
             <children/>
           </grid>
-          <grid id="4cb94" class="javax.swing.JMenu" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+          <grid id="4cb94" class="javax.swing.JMenu" binding="metrosConsultaInmueblesMenu" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
             <constraints/>
             <properties>
-              <text value="Por Localidad"/>
+              <text value="Por Metros"/>
             </properties>
             <border type="none"/>
             <children/>
           </grid>
-          <grid id="ac7a6" class="javax.swing.JMenu" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+          <grid id="ac7a6" class="javax.swing.JMenu" binding="calleConsultaInmueblesMenu" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
             <constraints/>
             <properties>
               <text value="Por Calle"/>
