@@ -76,6 +76,7 @@ public class ControladorPrincipal {
     public class controlarMenuModificacionInmuebles implements ActionListener {
         @Override
         public void actionPerformed(ActionEvent e) {
+            /* Adrian */
         }
     }
 
