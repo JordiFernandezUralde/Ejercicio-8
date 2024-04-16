@@ -1,7 +1,7 @@
 package Modelo;
 
 public class Inmuebles {
-    private String calle;
+    private String calle; 
     private String metrosCuadrados;
     private Integer precio;
 
