@@ -1,43 +1,43 @@
 
-‰
-java:S13199"mThe type of "listaPersonas" should be an interface such as "List" rather than the implementation "ArrayList".(ó¹Ê58¤ö¢¶î1
-	java:S101-"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(•±å®8Ê¤”¶î1J$9193bd0d-adde-466b-b582-16a55edc2a1c
-”	java:S1016"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Î·Îûÿÿÿÿ8Ê¤”¶î1J$5902fcd1-d08a-4672-9b24-5b247e8d0e41
-	java:S101M"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‘õ¨8Ê¤”¶î1J$6b8465d9-3ca4-45f2-aecd-ced9beccdd0a
-	java:S101S"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(™Ä•š8Ê¤”¶î1J$423f9b41-d923-4736-80cd-2c02a6043ac0
-	java:S101["MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ñ¬Àà8Ê¤”¶î1J$4eaad8e4-2256-469f-842b-a03f8c7d7648
-”	java:S101a"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(˜Ó¿†úÿÿÿÿ8Ê¤”¶î1J$4ae70b50-6e13-445d-983c-9beea0c9a345
-	java:S101h"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(æ¼¦ª8Ê¤”¶î1J$baecb2f1-7c2e-4ac4-a13e-0e068ec4caf1
-	java:S101p"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÕœÅ8Ê¤”¶î1J$b851f3f7-67b5-4e61-b265-fd7a07edf8e9
-	java:S101v"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(üÁÑÖ8Ê¤”¶î1J$04a1cbc5-8031-4cdf-b73f-982bc1e7308b
-”	java:S101|"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÃŒ¸áşÿÿÿÿ8Ë¤”¶î1J$f5233c96-9a66-4ffd-8082-be6683dcf351
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ï‡Î£8¢€öµî1J$c7cb5cb0-f631-46e1-9ca2-b65dc105aed7
-G	java:S106I"+Replace this use of System.out by a logger.(ñâà¤8®ö¢¶î1
+¯
+java:S13199"mThe type of "listaPersonas" should be an interface such as "List" rather than the implementation "ArrayList".(ó¹Ê58¤ö¢¶î1J$616aa2d0-0f80-4331-989d-d2909bf57ade
+	java:S101-"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(•±å®8Ê¤”¶î1J$b9afbe9c-3741-4226-b122-415469c444ba
+”	java:S1016"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Î·Îûÿÿÿÿ8Ê¤”¶î1J$7016a2db-cac5-4e9b-81e5-a851391e5f11
+	java:S101M"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‘õ¨8Ê¤”¶î1J$8f783812-691c-43ac-9e08-15dc5eed7ba3
+	java:S101S"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(™Ä•š8Ê¤”¶î1J$de85159a-82c1-4504-b133-74994aa11d67
+	java:S101["MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ñ¬Àà8Ê¤”¶î1J$b23eeaf9-f18a-49a6-8c74-0997cc2d8e33
+”	java:S101a"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(˜Ó¿†úÿÿÿÿ8Ê¤”¶î1J$50e1bd7b-3979-4c0f-85cd-e3d6f28725f9
+	java:S101h"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(æ¼¦ª8Ê¤”¶î1J$c3a58ecd-322d-4760-ae47-5f9ed3110482
+	java:S101p"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÕœÅ8Ê¤”¶î1J$96f10057-16dd-4c68-ab13-7588a645b17f
+	java:S101v"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(üÁÑÖ8Ê¤”¶î1J$4886b84b-c430-4edb-9999-93179e2080e3
+”	java:S101|"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÃŒ¸áşÿÿÿÿ8Ë¤”¶î1J$b669724b-429b-445b-b090-23b65c177f7d
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ï‡Î£8¢€öµî1J$ec6dec63-bd62-4fdb-92f7-aa2773227368
+m	java:S106I"+Replace this use of System.out by a logger.(ñâà¤8®ö¢¶î1J$9eca422f-e915-4e17-a17a-e7704cb05b0f
 É
-java:S1186O"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ Òşüÿÿÿÿ8Ô¤”¶î1J$68a11c92-1d8e-451b-b512-f959ca943f46
+java:S1186O"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ Òşüÿÿÿÿ8Ô¤”¶î1J$6935d46c-df3f-434f-94ea-bab19abb15ae
 É
-java:S1186U"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ Òşüÿÿÿÿ8Ô¤”¶î1J$b00df82d-ff08-43da-9b54-8b9f224d0711
+java:S1186U"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ Òşüÿÿÿÿ8Ô¤”¶î1J$22ac0fa2-e29c-4f98-96c6-b8507c35dd9d
 É
-java:S1186]"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ Òşüÿÿÿÿ8Õ¤”¶î1J$53de0752-64e7-4e12-8178-15487ddcac0a
+java:S1186]"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ Òşüÿÿÿÿ8Õ¤”¶î1J$2047e608-405b-433b-bd19-5c4d50a5f687
 É
-java:S1186c"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ Òşüÿÿÿÿ8Õ¤”¶î1J$08790679-c6cd-413d-9a1b-bf68ff742213
+java:S1186c"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ Òşüÿÿÿÿ8Õ¤”¶î1J$7c02ebb9-2628-431c-ad2b-fc1537871e17
 É
-java:S1186j"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ Òşüÿÿÿÿ8Ö¤”¶î1J$fe34980e-0c23-4446-aff1-61651c6e0d08
+java:S1186j"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ Òşüÿÿÿÿ8Ö¤”¶î1J$98c26287-bbc7-49f6-808a-c0f55689aa2f
 É
-java:S1186r"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ Òşüÿÿÿÿ8Ö¤”¶î1J$addce320-c697-4125-93f9-daf9e24c03d7
+java:S1186r"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ Òşüÿÿÿÿ8Ö¤”¶î1J$2d371d35-a307-4eaa-8ae6-9ef92bcb449a
 É
-java:S1186x"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ Òşüÿÿÿÿ8Ö¤”¶î1J$f48ede19-6e78-4a39-a400-5af8dfc8a3b5
+java:S1186x"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ Òşüÿÿÿÿ8Ö¤”¶î1J$9a4354d9-6b50-4ff7-8455-6b53bb2af621
 É
-java:S1186~"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ Òşüÿÿÿÿ8×¤”¶î1J$824c9805-964a-4d56-9325-5e20014460c1
+java:S1186~"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ Òşüÿÿÿÿ8×¤”¶î1J$67a14bc0-b8d0-4f4d-b017-9de18b59c477
 j
-java:S1068"'Remove this unused "vap" private field.(»…©‹8´€öµî1J$845c10b3-f94e-492f-8917-6e655c4f9e41
+java:S1068"'Remove this unused "vap" private field.(»…©‹8´€öµî1J$ee93d4fe-a5be-4b3a-b0b9-b634c5671650
 j
-java:S1068"'Remove this unused "vbp" private field.(ÌÕ¢8Ø¤”¶î1J$3b42b15f-4a13-43ca-9c17-de244b28a331
+java:S1068"'Remove this unused "vbp" private field.(ÌÕ¢8Ø¤”¶î1J$dd427b9a-0e04-4a49-9cbd-f07ac17348e9
 o
-java:S1068"'Remove this unused "vmp" private field.(ğœ¼¸ûÿÿÿÿ8Ø¤”¶î1J$0eda3ae3-88b3-491f-9ca2-8c7a830ecabd
+java:S1068"'Remove this unused "vmp" private field.(ğœ¼¸ûÿÿÿÿ8Ø¤”¶î1J$e281c211-648d-4d98-80d1-842392ef9a8b
 o
-java:S1068"'Remove this unused "vai" private field.(´À¼äøÿÿÿÿ8—ç”¶î1J$d628fb65-c61a-4f96-b63a-2d43d3eba255
+java:S1068"'Remove this unused "vai" private field.(´À¼äøÿÿÿÿ8—ç”¶î1J$b94b05d2-0668-49e8-9990-ac69beb0dbde
 i
-java:S1068"'Remove this unused "vbi" private field.(ñÇÚx8—ç”¶î1J$6f79007c-fcb9-461d-8e00-ad07c33c8bd5
+java:S1068"'Remove this unused "vbi" private field.(ñÇÚx8—ç”¶î1J$718503b5-e682-4fa1-a934-b1abbed30c85
 o
-java:S1068"'Remove this unused "vmi" private field.(öòÍ™ÿÿÿÿÿ8ÁÙ•¶î1J$e7ca3eef-a479-4adf-b256-9517e2130318
+java:S1068"'Remove this unused "vmi" private field.(öòÍ™ÿÿÿÿÿ8ÁÙ•¶î1J$fce20cc6-31f5-4b81-a557-543593043937
