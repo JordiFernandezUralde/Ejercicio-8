@@ -1,5 +1,8 @@
+import Controlador.ControladorPrincipal;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        ControladorPrincipal cp;
+        cp = new ControladorPrincipal();
     }
 }

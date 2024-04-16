@@ -1,2 +1,5 @@
 
-k	java:S106"+Replace this use of System.out by a logger.(‚ŞÏ¥ıÿÿÿÿJ$61e92dad-b6eb-4bd7-94be-648f884f862b
+X
+java:S1854"6Remove this useless assignment to local variable "cp".(¥Ÿ«ıÿÿÿÿ8ìÍ”µî1
+o
+java:S1481"'Remove this unused "cp" local variable.(É­ñ„üÿÿÿÿ8ıš”µî1J$d5f380f5-97ee-4006-b00e-6fb5cb2f8ed5
