@@ -1,4 +1,4 @@
 
-•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÃŒ ­J$3e7b6ce5-be29-460b-80c1-23ee567b0b46
-G
-java:S1068"*Remove this unused "panel1" private field.(–¾Ê‰8Â…î´î1
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÃŒ ­8‹ÏŽµî1J$a155fd58-3792-429a-8f2a-a132da687dae
+r
+java:S1068"/Remove this unused "salirButton" private field.(ÂÁ–Ñ8“ÏŽµî1J$f2ec4c31-6bc9-499d-9a40-7b60f2d2ab0c
