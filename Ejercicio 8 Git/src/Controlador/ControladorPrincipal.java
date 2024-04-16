@@ -15,7 +15,6 @@ public class ControladorPrincipal {
     private VentanaAltaInmuebles vai;
     private VentanaBajaInmueble vbi;
     private VentanaModifiInmuebles vmi;
-
     private final ArrayList<Personas> listaPersonas;
 
     public ControladorPrincipal() {
@@ -27,11 +26,23 @@ public class ControladorPrincipal {
         vp.añadirBotonSalir(new controlarBotonSalir());
 
         /* ------ PERSONAS ------ */
+        vap = new VentanaAltaPersonas();
+        vbp = new VentanaBajaPersonas();
+         vmp = new VentanaModificacionPersonas();
+        vap.setVisible(true);
+        vbp.setVisible(true);
+        vmp.setVisible(true);
         vp.añadirMenuALtaPersonas(new controlarMenuAltaPersonas(listaPersonas));
         vp.añadirMenuBajaPersonas(new controlarMenuBajaPersonas());
         vp.añadirMenuModificacionPersonas(new controlarMenuModificacionPersonas());
 
         /* ------ INMUEBLES ------ */
+        vai = new VentanaAltaInmuebles();
+        vmi = new VentanaModifiInmuebles();
+        vbi = new VentanaBajaInmueble();
+        vai.setVisible(true);
+        vmi.setVisible(true);
+        vbi.setVisible(true);
         vp.añadirMenuAltaInmuebles(new controlarMenuAltaInmuebles());
         vp.añadirMenuBajaInmuebles(new controlarMenuBajaInmuebles());
         vp.añadirMenuModificacionInmuebles(new controlarMenuModificacionInmuebles());
@@ -71,6 +82,7 @@ public class ControladorPrincipal {
             Personas persona = new Personas(dni, nombre);
             listaPersonas.add(persona);
             System.out.println("Persona añadida correctamente: " + persona);
+
         }
     }
 
