@@ -1,4 +1,4 @@
 
 •	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÃŒ ­J$3e7b6ce5-be29-460b-80c1-23ee567b0b46
-~
-java:S2094"BRemove this empty class, write its code or make it an "interface".(éŸÀ¼J$423eced8-06a5-4146-ab93-c6583c7fd67a
+G
+java:S1068"*Remove this unused "panel1" private field.(–¾Ê‰8Â…î´î1
