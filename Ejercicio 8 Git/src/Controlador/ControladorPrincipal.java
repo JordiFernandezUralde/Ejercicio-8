@@ -1,8 +1,7 @@
 package Controlador;
 
 import Modelo.Personas;
-import Vista.VentanaAltaPersonas;
-import Vista.VentanaPrincipal;
+import Vista.*;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -11,10 +10,19 @@ import java.util.ArrayList;
 public class ControladorPrincipal {
     private VentanaPrincipal vp;
     private VentanaAltaPersonas vap;
+    private VentanaBajaPersonas vbp;
+    private VentanaModificacionPersonas vmp;
+    private VentanaAltaInmuebles vai;
+    private VentanaBajaInmueble vbi;
+    private VentanaModifiInmuebles vmi;
+
+    private final ArrayList<Personas> listaPersonas;
 
     public ControladorPrincipal() {
         vp = new VentanaPrincipal();
         vp.setVisible(true);
+
+        listaPersonas = new ArrayList<>();
 
         vp.añadirBotonSalir(new controlarBotonSalir());
 
@@ -44,7 +52,6 @@ public class ControladorPrincipal {
     /* ------ PERSONAS ------ */
 
     public class controlarMenuAltaPersonas implements ActionListener {
-        private ArrayList<Personas> listaPersonas;
 
         public controlarMenuAltaPersonas(ArrayList<Personas> listaPersonas) {
             this.listaPersonas = listaPersonas;
